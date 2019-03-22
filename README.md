@@ -1,2 +1,6 @@
 # Muti-Cycle-CPU
-muti-cycle CPU design project based on verlog
+- Muti-cycle CPU design project 
+- Verlog based
+- Gate level ALU
+
+## XLINX
